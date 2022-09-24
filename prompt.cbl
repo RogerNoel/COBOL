@@ -1,5 +1,5 @@
        IDENTIFICATION DIVISION.
-       PROGRAM-ID. intercationUtilisateur.
+       PROGRAM-ID. interactionUtilisateur.
        AUTHOR. Roger.
 
        DATA DIVISION. 
