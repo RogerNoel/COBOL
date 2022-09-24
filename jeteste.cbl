@@ -3,4 +3,4 @@
        AUTHOR. Roger.
        PROCEDURE DIVISION.
            DISPLAY "ça marche".
-           STOP RUN.i
+           STOP RUN.
