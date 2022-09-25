@@ -1,0 +1,8 @@
+Identification Division
+
+Data Division
+Working Storage Section
+
+Procedure Division
+
+    Stop Run
